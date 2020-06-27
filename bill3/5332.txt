@@ -1,0 +1,26 @@
+	    B$B Mart Pvt.Ltd 
+		Bansbari
+
+ Bill No.  : 5332
+ Customer  : dfv
+ Phone No. : dv
+ P.Time    : 2020-06-27 10:51:33
+----------------------------------------
+ Products		QTY		Price
+----------------------------------------
+ Gel Pen		1		30
+ Eraser		1		50
+ Marker 		1		50
+ Notebook		1		100
+----------------------------------------
+ Subtotal Amount :		Rs. 230.0
+ Total Tax       :		Rs. 11.5
+----------------------------------------
+ Grand Total Amt :		Rs. 241.5
+----------------------------------------
+ Received Amount :		Rs. 300
+ Returned Amount :		Rs. 58.5
+****************************************
+		THANK YOU!
+	       VISIT AGAIN
+****************************************

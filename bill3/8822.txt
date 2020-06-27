@@ -1,0 +1,26 @@
+	    B$B Mart Pvt.Ltd 
+		Bansbari
+
+ Bill No.  : 8822
+ Customer  : fzdgd
+ Phone No. : sdfg
+ P.Time    : 2020-06-27 14:31:57
+ Member ID : 12354
+----------------------------------------
+ Products		QTY		Price
+----------------------------------------
+ Gel Pen		1		30
+ Flour   		1		350
+----------------------------------------
+ Subtotal Amount :		Rs. 380.0
+ Total Tax       :		Rs. 5.0
+ Discount Amount :		Rs. 19.25
+----------------------------------------
+ Grand Total Amt :		Rs. 365.75
+----------------------------------------
+ Received Amount :		Rs. 500
+ Returned Amount :		Rs. 134.25
+****************************************
+		THANK YOU!
+	       VISIT AGAIN
+****************************************

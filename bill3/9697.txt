@@ -1,0 +1,34 @@
+	    B$B Mart Pvt.Ltd 
+		Bansbari
+
+ Bill No.  : 9697
+ Customer  : sdfbfd
+ Phone No. : sfbdf
+ P.Time    : 2020-06-27 10:55:11
+----------------------------------------
+ Products		QTY		Price
+----------------------------------------
+ Gel Pen		1		30
+ Eraser 		1		50
+ Marker 		1		50
+ Notebook		1		100
+ Geometry Box		1		450
+ Magic Pencils		1		150
+ Rice    		1		2650
+ Bread   		1		80
+ Flour   		1		350
+ Fish    		1		500
+ Sugar   		1		72
+ Cheese  		1		200
+----------------------------------------
+ Subtotal Amount :		Rs. 4682.0
+ Total Tax       :		Rs. 80.02
+----------------------------------------
+ Grand Total Amt :		Rs. 4762.02
+----------------------------------------
+ Received Amount :		Rs. 5000
+ Returned Amount :		Rs. 237.98
+****************************************
+		THANK YOU!
+	       VISIT AGAIN
+****************************************

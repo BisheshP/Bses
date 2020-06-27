@@ -1,0 +1,28 @@
+	    B$B Mart Pvt.Ltd 
+		Bansbari
+
+ Bill No.  : 2001
+ Customer  : bishesh1
+ Phone No. : 1
+ P.Time    : 2020-06-27 10:50:01
+ Member ID : 1
+----------------------------------------
+ Products		QTY		Price
+----------------------------------------
+ Gel Pen		1		30
+ Marker		1		50
+ Flour		1		350
+ Wine		1		2100
+----------------------------------------
+ Subtotal Amount :		Rs. 2530.0
+ Total Tax       :		Rs. 70.5
+ Discount Amount :		Rs. 130.03
+----------------------------------------
+ Grand Total Amt :		Rs. 2470.47
+----------------------------------------
+ Received Amount :		Rs. 2500
+ Returned Amount :		Rs. 29.53
+****************************************
+		THANK YOU!
+	       VISIT AGAIN
+****************************************
